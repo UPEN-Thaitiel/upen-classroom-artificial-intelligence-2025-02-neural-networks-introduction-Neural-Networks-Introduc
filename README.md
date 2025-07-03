@@ -33,9 +33,9 @@ This lab is divided into three tasks. All work must be submitted in the form of 
 
 ## Task 3: Classification Use Case with scikit-learn MLPClassifier
 
-- Reuse the dataset from your previous classification use case (e.g., heart disease, wine quality, etc.)
+- Reuse the dataset from your previous classification use case.
 - Apply scikit-learn’s `MLPClassifier`
-- Use `GridSearchCV` or `RandomizedSearchCV` to tune at least two hyperparameters (e.g., `hidden_layer_sizes`, `alpha`, `activation`)
+- Use `GridSearchCV` to tune at least two hyperparameters (e.g., `hidden_layer_sizes`, `alpha`, `activation`)
 - Report:
   - Best parameters
   - Accuracy on the test set
